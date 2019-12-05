@@ -11,6 +11,7 @@
 ## 目录
 
 - [官方文档](#官方文档)
+- [社区](#社区)
 - [组件](#组件)
 - [开发模板](#开发模板)
 - [Demo](#demo)
@@ -25,6 +26,13 @@
 
 - [Serverless Framework 介绍](https://serverless.com/framework/docs/)
 - [Serverless Components 开发指南](https://serverless.com/blog/what-are-serverless-components-how-use/)
+
+[↑ 返回目录 ↑](#目录)
+
+## 社区
+
+- [Serverless Framework 官方社区](https://serverless.com/blog/)
+- [Serverless Framework 中文社区](https://serverlesscloud.cn) 建设中...
 
 [↑ 返回目录 ↑](#目录)
 
