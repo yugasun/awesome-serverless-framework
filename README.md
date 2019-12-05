@@ -4,9 +4,10 @@
 
 本仓库中的资料整理自网络，也有一些来自网友的推荐。在[这里](https://github.com/yugasun/awesome-serverless-framework/graphs/contributors)可以看到项目贡献者的完整名单。
 
-## QQ交流群
+## 技术交流群
 
-- Serverless 框架开发交流群：871445853
+- Serverless 框架开发QQ群：`871445853`
+- Serverless 框架开发微信群：`serverlesscloud`，（先添加群助手，备注后进群）
 
 ## 目录
 
