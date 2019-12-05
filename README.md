@@ -34,6 +34,7 @@
 - [@serverless/backend](https://github.com/serverless-components/backend) - 快速部署后端服务到 AWS Lambda
 - [@serverless/backend-socket](https://github.com/serverless-components/backend-socket) - 快速部署 WebSocket 后端服务到 AWS Lambda
 - [@serverless/api](https://github.com/serverless-components/api) - AWS API网关组件
+- [@serverless/cdn](https://github.com/serverless-components/cdn) - AWS CDN组件
 - [@serverless/aws-dynamodb](https://github.com/serverless-components/aws-dynamodb) - AWS DynamoDB 组件
 - [@serverless/tencent-apigateway](https://github.com/serverless-components/tencent-apigateway) - 腾讯云API网关组件
 - [@serverless/tencent-cos](https://github.com/serverless-components/tencent-cos) - 腾讯云云对象存储组件
@@ -49,7 +50,7 @@
 
 模板使用方法，例如使用 [fullstack-application-vue](https://github.com/yugasun/tencent-serverless-demo/tree/master/fullstack-application-vue) 模板创建项目
 
-全局安装 serverless cli
+全局安装 `serverless cli`
 
 ```bash
 $ npm intstall serverless -g
@@ -61,19 +62,17 @@ $ npm intstall serverless -g
 $ serverless create --template-url https://github.com/yugasun/tencent-serverless-demo/tree/master/fullstack-application-vue
 ```
 
-### AWS
-
-- [website](https://github.com/serverless/components/tree/master/templates/website) - React + Parcel 前端开发模板
-- [fullstack-application](https://github.com/serverless/components/tree/master/templates/fullstack-application) - 基于React.js全栈开发
-- [backend-microservices](https://github.com/serverless/components/tree/master/templates/backend-microservices) - 后端微服务
-- [aws-lambda-function](https://github.com/serverless/components/tree/master/templates/aws-lambda-function) - 云函数
-
-### 腾讯云
-
-- [tencent-python-rest-api](https://github.com/serverless/components/tree/master/templates/tencent-python-rest-api) - 基于Python的Restful API
-- [tencent-fullstack-vue-application](https://github.com/serverless/components/tree/master/templates/tencent-fullstack-vue-application) - 基于Vue.js全栈开发1
-- [fullstack-application-vue](https://github.com/yugasun/tencent-serverless-demo/tree/master/fullstack-application-vue) - 基于Vue.js全栈开发2
-- [tencent-fullstack-vue-application](https://github.com/serverless/components/tree/master/templates/tencent-fullstack-vue-application) - 基于React.js全栈开发
+- [aws-app-sync-dynamodb](https://github.com/serverless/components/tree/master/templates/aws-app-sync-dynamodb) - GraphQL + DynamoDB 的API服务（AWS）
+- [backend-monolith](https://github.com/serverless/components/tree/master/templates/backend-monolith) - 全面的后端服务（AWS）
+- [backend-websocket](https://github.com/serverless/components/tree/master/templates/backend-websocket) - 含有实时WebSocket APi的后端服务（AWS）
+- [nextjs](https://github.com/serverless/components/tree/master/templates/website) - 基于 Next.js 框架的全栈模板（AWS）
+- [fullstack-application](https://github.com/serverless/components/tree/master/templates/fullstack-application) - 基于React.js全栈开发（AWS）
+- [backend-microservices](https://github.com/serverless/components/tree/master/templates/backend-microservices) - 后端微服务（AWS）
+- [aws-lambda-function](https://github.com/serverless/components/tree/master/templates/aws-lambda-function) - 云函数（AWS）
+- [tencent-python-rest-api](https://github.com/serverless/components/tree/master/templates/tencent-python-rest-api) - 基于Python的Restful API（腾讯云）
+- [tencent-fullstack-vue-application](https://github.com/serverless/components/tree/master/templates/tencent-fullstack-vue-application) - 基于Vue.js全栈开发1（腾讯云）
+- [fullstack-application-vue](https://github.com/yugasun/tencent-serverless-demo/tree/master/fullstack-application-vue) - 基于Vue.js全栈开发2（腾讯云）
+- [tencent-fullstack-vue-application](https://github.com/serverless/components/tree/master/templates/tencent-fullstack-vue-application) - 基于React.js全栈开发（腾讯云）
 
 [↑ 返回目录 ↑](#目录)
 
