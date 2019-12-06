@@ -2,8 +2,6 @@
 
 本文收集了基于 Serverless 框架开发过程中会使用到的资料、问题以及第三方组件库。本文不是一遍关于如何学习 Serverless 框架开发的入门指南，只是一些资料的整理。
 
-本仓库中的资料整理自网络，也有一些来自网友的推荐。在[这里](https://github.com/yugasun/awesome-serverless-framework/graphs/contributors)可以看到项目贡献者的完整名单。
-
 ## 技术交流群
 
 - Serverless 框架开发QQ群：`871445853`
@@ -15,8 +13,9 @@
 - [社区](#社区)
 - [组件](#组件)
 - [开发模板](#开发模板)
-- [Demo](#demo)
+- [案例](#案例)
 - [实践文章](#实践文章)
+- [贡献者](#贡献者)
 
 ## 置顶
 
@@ -33,7 +32,7 @@
 ## 社区
 
 - [Serverless Framework 官方社区](https://serverless.com/blog/)
-- [Serverless Framework 中文社区](https://serverlesscloud.cn) 建设中...
+- [Serverless Framework 中文社区](https://serverlesscloud.cn)
 
 [↑ 返回目录 ↑](#目录)
 
@@ -85,14 +84,20 @@ $ serverless create --template-url https://github.com/yugasun/tencent-serverless
 
 [↑ 返回目录 ↑](#目录)
 
-## Demo
+## 案例
 
-- [yugasun/tencent-serverless-demo](https://github.com/yugasun/tencent-serverless-demo) - 基于腾讯云无服务开发合集
+- [yugasun/tencent-serverless-demo](https://github.com/yugasun/tencent-serverless-demo) - 基于腾讯云无服务开发案例合集
 
 [↑ 返回目录 ↑](#目录)
 
 ## 实践文章
 
 - [Serverless 实践篇](https://juejin.im/user/583b9227ac502e006c25d1a7/posts)
+
+[↑ 返回目录 ↑](#目录)
+
+## 贡献者
+
+[贡献者名单](https://github.com/yugasun/awesome-serverless-framework/graphs/contributors)
 
 [↑ 返回目录 ↑](#目录)
