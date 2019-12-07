@@ -51,6 +51,10 @@
 - [@serverless/tencent-koa](https://github.com/serverless-components/tencent-koa) - 快速部署基于 Koa.js 的后端服务到腾讯云函数的组件
 - [@serverless/tencent-website](https://github.com/serverless-components/website) - 快速部署静态网站到腾讯云的组件
 
+社区组件：
+
+- [@twn39/tencent-fastify](https://github.com/twn39/tencent-fastify) - 快速部署基于 fastify.js 的后端服务到腾讯云函数的组件
+
 [↑ 返回目录 ↑](#目录)
 
 
