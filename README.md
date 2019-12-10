@@ -21,6 +21,7 @@
 
 - [Serverless 开发框架](https://github.com/serverless/serverless) 💯
 - [Serverless 开发组件](https://github.com/serverless/components) 💯
+- [腾讯云 Serverless Components 开发模板](https://github.com/yugasun/serverless-component-template) 💯
 
 ## 官方文档
 
