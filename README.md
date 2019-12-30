@@ -54,7 +54,7 @@
 - [@serverless/tencent-cdn](https://github.com/serverless-components/tencent-cdn) - 腾讯云 CDN 组件
 - [@serverless/tencent-flask](https://github.com/serverless-components/tencent-flask) - 腾讯云 Flask 框架组件
 - [@serverless/tencent-egg](https://github.com/serverless-components/tencent-egg) - 腾讯云 Egg.js 框架组件
-<!-- - [@serverless/tencent-laravel](https://github.com/serverless-components/tencent-laravel) - 腾讯云 Laravel 框架组件 -->
+- [@serverless/tencent-laravel](https://github.com/serverless-components/tencent-laravel) - 腾讯云 Laravel 框架组件
 - [@twn39/tencent-fastify](https://github.com/twn39/tencent-fastify) - 快速部署基于 fastify.js 的后端服务到腾讯云函数的组件
 - [@twn39/tencent-php-slim](https://github.com/twn39/tencent-php-slim) - 快速部署基于 Slim PHP 微框架的后端服务到腾讯云函数的组件
 
