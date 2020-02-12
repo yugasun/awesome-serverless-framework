@@ -92,7 +92,7 @@ $ serverless create --template-url https://github.com/yugasun/tencent-serverless
 - [tencent-eggjs](https://github.com/serverless/components/tree/master/templates/tencent-eggjs) - Egg.js 框架的开发模板（腾讯云）
 - [tencent-flask](https://github.com/serverless/components/tree/master/templates/tencent-flask) - Flask 框架开发模板（腾讯云）
 - [tencent-laravel](https://github.com/serverless/components/tree/master/templates/tencent-laravel) - Laravel 框架开发模板（腾讯云）
-- [admin-system](https://github.com/yugasun/tencent-serverless-demo/tree/master/fullstack-application-vue) - Serverless + Egg.js 后台管理系统（腾讯云）
+- [admin-system](https://github.com/yugasun/tencent-serverless-demo/tree/master/fullstack-application-vue) - Serverless + Egg.js 后台管理系统（腾讯云）🔥
 
 [↑ 返回目录 ↑](#目录)
 
