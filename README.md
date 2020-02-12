@@ -55,6 +55,7 @@
 - [@serverless/tencent-flask](https://github.com/serverless-components/tencent-flask) - 腾讯云 Flask 框架组件
 - [@serverless/tencent-egg](https://github.com/serverless-components/tencent-egg) - 腾讯云 Egg.js 框架组件
 - [@serverless/tencent-laravel](https://github.com/serverless-components/tencent-laravel) - 腾讯云 Laravel 框架组件
+- [@serverless/tencent-websocket](https://github.com/serverless-components/tencent-websocket) - 腾讯云 Websockets 组件
 - [@twn39/tencent-fastify](https://github.com/twn39/tencent-fastify) - 快速部署基于 fastify.js 的后端服务到腾讯云函数的组件
 - [@twn39/tencent-php-slim](https://github.com/twn39/tencent-php-slim) - 快速部署基于 Slim PHP 微框架的后端服务到腾讯云函数的组件
 
@@ -91,6 +92,7 @@ $ serverless create --template-url https://github.com/yugasun/tencent-serverless
 - [tencent-eggjs](https://github.com/serverless/components/tree/master/templates/tencent-eggjs) - Egg.js 框架的开发模板（腾讯云）
 - [tencent-flask](https://github.com/serverless/components/tree/master/templates/tencent-flask) - Flask 框架开发模板（腾讯云）
 - [tencent-laravel](https://github.com/serverless/components/tree/master/templates/tencent-laravel) - Laravel 框架开发模板（腾讯云）
+- [admin-system](https://github.com/yugasun/tencent-serverless-demo/tree/master/fullstack-application-vue) - Serverless + Egg.js 后台管理系统（腾讯云）
 
 [↑ 返回目录 ↑](#目录)
 
