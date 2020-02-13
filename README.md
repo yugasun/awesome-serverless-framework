@@ -78,6 +78,8 @@ $ npm intstall serverless -g
 $ serverless create --template-url https://github.com/yugasun/tencent-serverless-demo/tree/master/fullstack-application-vue
 ```
 
+- [admin-system](https://github.com/yugasun/tencent-serverless-demo/tree/master/admin-system) - Serverless + Egg.js 后台管理系统（腾讯云）🔥
+- [serverless-egg-ssr-template](https://github.com/yugasun/serverless-egg-ssr-template) - Serverless + Egg.js + React __**SSR**__ 实践方案（腾讯云）🔥
 - [aws-app-sync-dynamodb](https://github.com/serverless/components/tree/master/templates/aws-app-sync-dynamodb) - GraphQL + DynamoDB 的API服务（AWS）
 - [backend-monolith](https://github.com/serverless/components/tree/master/templates/backend-monolith) - 全面的后端服务（AWS）
 - [backend-websocket](https://github.com/serverless/components/tree/master/templates/backend-websocket) - 含有实时 WebSocket API 的后端服务（AWS）
@@ -92,7 +94,6 @@ $ serverless create --template-url https://github.com/yugasun/tencent-serverless
 - [tencent-eggjs](https://github.com/serverless/components/tree/master/templates/tencent-eggjs) - Egg.js 框架的开发模板（腾讯云）
 - [tencent-flask](https://github.com/serverless/components/tree/master/templates/tencent-flask) - Flask 框架开发模板（腾讯云）
 - [tencent-laravel](https://github.com/serverless/components/tree/master/templates/tencent-laravel) - Laravel 框架开发模板（腾讯云）
-- [admin-system](https://github.com/yugasun/tencent-serverless-demo/tree/master/fullstack-application-vue) - Serverless + Egg.js 后台管理系统（腾讯云）🔥
 
 [↑ 返回目录 ↑](#目录)
 
