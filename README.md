@@ -39,12 +39,8 @@
 
 ## 组件
 
-- [@serverless/website](https://github.com/serverless-components/website) - 快速部署静态网站到 AWS S3
-- [@serverless/backend](https://github.com/serverless-components/backend) - 快速部署后端服务到 AWS Lambda
-- [@serverless/backend-socket](https://github.com/serverless-components/backend-socket) - 快速部署 WebSocket 后端服务到 AWS Lambda
-- [@serverless/api](https://github.com/serverless-components/api) - AWS API网关组件
-- [@serverless/cdn](https://github.com/serverless-components/cdn) - AWS CDN组件
-- [@serverless/aws-dynamodb](https://github.com/serverless-components/aws-dynamodb) - AWS DynamoDB 组件
+#### 腾讯云
+
 - [@serverless/tencent-apigateway](https://github.com/serverless-components/tencent-apigateway) - 腾讯云API网关组件
 - [@serverless/tencent-cos](https://github.com/serverless-components/tencent-cos) - 腾讯云云对象存储组件
 - [@serverless/tencent-scf](https://github.com/serverless-components/tencent-scf) - 腾讯云函数组件
@@ -58,6 +54,15 @@
 - [@serverless/tencent-websocket](https://github.com/serverless-components/tencent-websocket) - 腾讯云 Websockets 组件
 - [@twn39/tencent-fastify](https://github.com/twn39/tencent-fastify) - 快速部署基于 fastify.js 的后端服务到腾讯云函数的组件
 - [@twn39/tencent-php-slim](https://github.com/twn39/tencent-php-slim) - 快速部署基于 Slim PHP 微框架的后端服务到腾讯云函数的组件
+
+#### AWS
+
+- [@serverless/website](https://github.com/serverless-components/website) - 快速部署静态网站到 AWS S3
+- [@serverless/backend](https://github.com/serverless-components/backend) - 快速部署后端服务到 AWS Lambda
+- [@serverless/backend-socket](https://github.com/serverless-components/backend-socket) - 快速部署 WebSocket 后端服务到 AWS Lambda
+- [@serverless/api](https://github.com/serverless-components/api) - AWS API网关组件
+- [@serverless/cdn](https://github.com/serverless-components/cdn) - AWS CDN组件
+- [@serverless/aws-dynamodb](https://github.com/serverless-components/aws-dynamodb) - AWS DynamoDB 组件
 
 [↑ 返回目录 ↑](#目录)
 
@@ -78,15 +83,10 @@ $ npm intstall serverless -g
 $ serverless create --template-url https://github.com/yugasun/tencent-serverless-demo/tree/master/fullstack-application-vue
 ```
 
+#### 腾讯云：
+
 - [admin-system](https://github.com/yugasun/tencent-serverless-demo/tree/master/admin-system) - Serverless + Egg.js 后台管理系统（腾讯云）🔥
 - [serverless-egg-ssr-template](https://github.com/yugasun/serverless-egg-ssr-template) - Serverless + Egg.js + React __**SSR**__ 实践方案（腾讯云）🔥
-- [aws-app-sync-dynamodb](https://github.com/serverless/components/tree/master/templates/aws-app-sync-dynamodb) - GraphQL + DynamoDB 的API服务（AWS）
-- [backend-monolith](https://github.com/serverless/components/tree/master/templates/backend-monolith) - 全面的后端服务（AWS）
-- [backend-websocket](https://github.com/serverless/components/tree/master/templates/backend-websocket) - 含有实时 WebSocket API 的后端服务（AWS）
-- [nextjs](https://github.com/serverless/components/tree/master/templates/website) - 基于 Next.js 框架的全栈模板（AWS）
-- [fullstack-application](https://github.com/serverless/components/tree/master/templates/fullstack-application) - 基于 React.js 全栈开发（AWS）
-- [backend-microservices](https://github.com/serverless/components/tree/master/templates/backend-microservices) - 后端微服务（AWS）
-- [aws-lambda-function](https://github.com/serverless/components/tree/master/templates/aws-lambda-function) - 云函数（AWS）
 - [tencent-python-rest-api](https://github.com/serverless/components/tree/master/templates/tencent-python-rest-api) - 基于 Python 的 RESTful API（腾讯云）
 - [tencent-fullstack-vue-application](https://github.com/serverless/components/tree/master/templates/tencent-fullstack-vue-application) - 基于Vue.js全栈开发1（腾讯云）
 - [fullstack-application-vue](https://github.com/yugasun/tencent-serverless-demo/tree/master/fullstack-application-vue) - 基于 Vue.js 全栈开发2（腾讯云）
@@ -94,6 +94,17 @@ $ serverless create --template-url https://github.com/yugasun/tencent-serverless
 - [tencent-eggjs](https://github.com/serverless/components/tree/master/templates/tencent-eggjs) - Egg.js 框架的开发模板（腾讯云）
 - [tencent-flask](https://github.com/serverless/components/tree/master/templates/tencent-flask) - Flask 框架开发模板（腾讯云）
 - [tencent-laravel](https://github.com/serverless/components/tree/master/templates/tencent-laravel) - Laravel 框架开发模板（腾讯云）
+
+#### AWS：
+
+
+- [aws-app-sync-dynamodb](https://github.com/serverless/components/tree/master/templates/aws-app-sync-dynamodb) - GraphQL + DynamoDB 的API服务（AWS）
+- [backend-monolith](https://github.com/serverless/components/tree/master/templates/backend-monolith) - 全面的后端服务（AWS）
+- [backend-websocket](https://github.com/serverless/components/tree/master/templates/backend-websocket) - 含有实时 WebSocket API 的后端服务（AWS）
+- [nextjs](https://github.com/serverless/components/tree/master/templates/website) - 基于 Next.js 框架的全栈模板（AWS）
+- [fullstack-application](https://github.com/serverless/components/tree/master/templates/fullstack-application) - 基于 React.js 全栈开发（AWS）
+- [backend-microservices](https://github.com/serverless/components/tree/master/templates/backend-microservices) - 后端微服务（AWS）
+- [aws-lambda-function](https://github.com/serverless/components/tree/master/templates/aws-lambda-function) - 云函数（AWS）
 
 [↑ 返回目录 ↑](#目录)
 
