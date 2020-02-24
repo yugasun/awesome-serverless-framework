@@ -107,42 +107,42 @@ $ serverless create --template-url https://github.com/yugasun/tencent-serverless
 #### 腾讯云：
 
 - [serverless-ran](https://github.com/yugasun/serverless-ran) - Serverless +
-  React + GraphQL + Next.js 项目模板（腾讯云）🔥
+  React + GraphQL + Next.js 项目模板 🔥
 - [admin-system](https://github.com/yugasun/tencent-serverless-demo/tree/master/admin-system) -
-  Serverless + Egg.js 后台管理系统（腾讯云）🔥
+  Serverless + Egg.js 后台管理系统 🔥
 - [serverless-egg-ssr-template](https://github.com/yugasun/serverless-egg-ssr-template) -
-  Serverless + Egg.js + React \***\*SSR\*\*** 实践方案（腾讯云）🔥
+  Serverless + Egg.js + React **_SSR_** 实践方案 🔥
 - [tencent-python-rest-api](https://github.com/serverless/components/tree/master/templates/tencent-python-rest-api) -
-  基于 Python 的 RESTful API（腾讯云）
+  基于 Python 的 RESTful API
 - [tencent-fullstack-vue-application](https://github.com/serverless/components/tree/master/templates/tencent-fullstack-vue-application) -
-  基于 Vue.js 全栈开发 1（腾讯云）
+  基于 Vue.js 全栈开发 1
 - [fullstack-application-vue](https://github.com/yugasun/tencent-serverless-demo/tree/master/fullstack-application-vue) -
-  基于 Vue.js 全栈开发 2（腾讯云）
+  基于 Vue.js 全栈开发 2
 - [tencent-fullstack-vue-application](https://github.com/serverless/components/tree/master/templates/tencent-fullstack-vue-application) -
-  基于 React.js 全栈开发（腾讯云）
+  基于 React.js 全栈开发
 - [tencent-eggjs](https://github.com/serverless/components/tree/master/templates/tencent-eggjs) -
-  Egg.js 框架的开发模板（腾讯云）
+  Egg.js 框架的开发模板
 - [tencent-flask](https://github.com/serverless/components/tree/master/templates/tencent-flask) -
-  Flask 框架开发模板（腾讯云）
+  Flask 框架开发模板
 - [tencent-laravel](https://github.com/serverless/components/tree/master/templates/tencent-laravel) -
-  Laravel 框架开发模板（腾讯云）
+  Laravel 框架开发模板
 
 #### AWS：
 
 - [aws-app-sync-dynamodb](https://github.com/serverless/components/tree/master/templates/aws-app-sync-dynamodb) -
-  GraphQL + DynamoDB 的 API 服务（AWS）
+  GraphQL + DynamoDB 的 API 服务
 - [backend-monolith](https://github.com/serverless/components/tree/master/templates/backend-monolith) -
-  全面的后端服务（AWS）
+  全面的后端服务
 - [backend-websocket](https://github.com/serverless/components/tree/master/templates/backend-websocket) -
-  含有实时 WebSocket API 的后端服务（AWS）
+  含有实时 WebSocket API 的后端服务
 - [nextjs](https://github.com/serverless/components/tree/master/templates/website) -
-  基于 Next.js 框架的全栈模板（AWS）
+  基于 Next.js 框架的全栈模板
 - [fullstack-application](https://github.com/serverless/components/tree/master/templates/fullstack-application) -
-  基于 React.js 全栈开发（AWS）
+  基于 React.js 全栈开发
 - [backend-microservices](https://github.com/serverless/components/tree/master/templates/backend-microservices) -
-  后端微服务（AWS）
+  后端微服务
 - [aws-lambda-function](https://github.com/serverless/components/tree/master/templates/aws-lambda-function) -
-  云函数（AWS）
+  云函数
 
 [↑ 返回目录 ↑](#目录)
 
