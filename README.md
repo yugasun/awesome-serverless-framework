@@ -111,7 +111,7 @@ $ serverless create --template-url https://github.com/yugasun/tencent-serverless
 - [admin-system](https://github.com/yugasun/tencent-serverless-demo/tree/master/admin-system) -
   Serverless + Egg.js 后台管理系统 🔥
 - [serverless-egg-ssr-template](https://github.com/yugasun/serverless-egg-ssr-template) -
-  Serverless + Egg.js + React **_SSR_** 实践方案 🔥
+  Serverless + Egg.js + React **SSR** 实践方案 🔥
 - [tencent-python-rest-api](https://github.com/serverless/components/tree/master/templates/tencent-python-rest-api) -
   基于 Python 的 RESTful API
 - [tencent-fullstack-vue-application](https://github.com/serverless/components/tree/master/templates/tencent-fullstack-vue-application) -
