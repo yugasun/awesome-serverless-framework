@@ -106,6 +106,8 @@ $ serverless create --template-url https://github.com/yugasun/tencent-serverless
 
 #### 腾讯云：
 
+- [serverless-graphql](https://github.com/yugasun/tencent-serverless-demo/tree/master/serverless-graphql) -
+  Serverless + GraphQL 服务端 🔥
 - [serverless-ran](https://github.com/yugasun/serverless-ran) - Serverless +
   React + GraphQL + Next.js 项目模板 🔥
 - [admin-system](https://github.com/yugasun/tencent-serverless-demo/tree/master/admin-system) -
