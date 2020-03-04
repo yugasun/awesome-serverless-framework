@@ -45,6 +45,8 @@
 
 - [@serverless/tencent-apigateway](https://github.com/serverless-components/tencent-apigateway) -
   腾讯云 API 网关组件
+- [@serverless/tencent-vpc](https://github.com/serverless-components/tencent-vpc) -
+  腾讯云 VPC 组件
 - [@serverless/tencent-cos](https://github.com/serverless-components/tencent-cos) -
   腾讯云云对象存储组件
 - [@serverless/tencent-scf](https://github.com/serverless-components/tencent-scf) -
