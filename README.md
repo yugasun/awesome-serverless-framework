@@ -63,8 +63,14 @@
   腾讯云 Flask 框架组件
 - [@serverless/tencent-egg](https://github.com/serverless-components/tencent-egg) -
   腾讯云 Egg.js 框架组件
+- [@serverless/tencent-nextjs](https://github.com/serverless-components/tencent-nextjs) -
+  腾讯云 Next.js 框架组件
+- [@serverless/tencent-nuxtjs](https://github.com/serverless-components/tencent-nuxtjs) -
+  腾讯云 Nuxt.js 框架组件
 - [@serverless/tencent-laravel](https://github.com/serverless-components/tencent-laravel) -
   腾讯云 Laravel 框架组件
+- [@serverless/tencent-thinkphp](https://github.com/serverless-components/tencent-thinkphp) -
+  腾讯云 ThinkPHP 框架组件
 - [@serverless/tencent-websocket](https://github.com/serverless-components/tencent-websocket) -
   腾讯云 Websockets 组件
 - [@twn39/tencent-fastify](https://github.com/twn39/tencent-fastify) - 快速部署
