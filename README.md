@@ -22,7 +22,9 @@
 
 - [Serverless 开发框架](https://github.com/serverless/serverless) 💯
 - [Serverless 开发组件](https://github.com/serverless/components) 💯
-- [腾讯云 Serverless Components 开发模板](https://github.com/yugasun/serverless-component-template)
+- [腾讯云 Serverless Components 开发模板](https://github.com/serverless-plus/serverless-component-template)
+  💯
+- [腾讯云框架 Serverless Components 开发模板](https://github.com/serverless-plus/tencent-framework-template)
   💯
 
 ## 官方文档
@@ -43,22 +45,12 @@
 
 #### 腾讯云
 
-- [@serverless/tencent-apigateway](https://github.com/serverless-components/tencent-apigateway) -
-  腾讯云 API 网关组件
-- [@serverless/tencent-vpc](https://github.com/serverless-components/tencent-vpc) -
-  腾讯云 VPC 组件
-- [@serverless/tencent-cos](https://github.com/serverless-components/tencent-cos) -
-  腾讯云云对象存储组件
-- [@serverless/tencent-scf](https://github.com/serverless-components/tencent-scf) -
-  腾讯云函数组件
+- [@serverless/tencent-framework](https://github.com/serverless-components/tencent-framework) -
+  帮助快速开发框架组件工具 🔥
 - [@serverless/tencent-express](https://github.com/serverless-components/tencent-express) -
   快速部署基于 Express.js 的后端服务到腾讯云函数的组件
 - [@serverless/tencent-koa](https://github.com/serverless-components/tencent-koa) -
   快速部署基于 Koa.js 的后端服务到腾讯云函数的组件
-- [@serverless/tencent-website](https://github.com/serverless-components/tencent-website) -
-  快速部署静态网站到腾讯云的组件
-- [@serverless/tencent-cdn](https://github.com/serverless-components/tencent-cdn) -
-  腾讯云 CDN 组件
 - [@serverless/tencent-flask](https://github.com/serverless-components/tencent-flask) -
   腾讯云 Flask 框架组件
 - [@serverless/tencent-egg](https://github.com/serverless-components/tencent-egg) -
@@ -71,8 +63,20 @@
   腾讯云 Laravel 框架组件
 - [@serverless/tencent-thinkphp](https://github.com/serverless-components/tencent-thinkphp) -
   腾讯云 ThinkPHP 框架组件
+- [@serverless/tencent-website](https://github.com/serverless-components/tencent-website) -
+  快速部署静态网站到腾讯云的组件
 - [@serverless/tencent-websocket](https://github.com/serverless-components/tencent-websocket) -
   腾讯云 Websockets 组件
+- [@serverless/tencent-apigateway](https://github.com/serverless-components/tencent-apigateway) -
+  腾讯云 API 网关组件
+- [@serverless/tencent-vpc](https://github.com/serverless-components/tencent-vpc) -
+  腾讯云 VPC 组件
+- [@serverless/tencent-cos](https://github.com/serverless-components/tencent-cos) -
+  腾讯云云对象存储组件
+- [@serverless/tencent-scf](https://github.com/serverless-components/tencent-scf) -
+  腾讯云函数组件
+- [@serverless/tencent-cdn](https://github.com/serverless-components/tencent-cdn) -
+  腾讯云 CDN 组件
 - [@twn39/tencent-fastify](https://github.com/twn39/tencent-fastify) - 快速部署
   基于 fastify.js 的后端服务到腾讯云函数的组件
 - [@twn39/tencent-php-slim](https://github.com/twn39/tencent-php-slim) - 快速部
