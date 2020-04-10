@@ -166,18 +166,14 @@ $ serverless create --template-url https://github.com/yugasun/tencent-serverless
 
 - [yugasun/tencent-serverless-demo](https://github.com/yugasun/tencent-serverless-demo) -
   基于腾讯云无服务开发案例合集
-
 - [anycodes/ServerlessPractice](https://github.com/anycodes/ServerlessPractice) -
   基于腾讯云无服务开发实践分享
-
-- [anycodes/ServerlessBlog](https://github.com/anycodes/ServerlessBlog) -
-  基于Serverless架构开发的博客系统
-  
-- [anycodes/AI_Blog](https://github.com/anycodes/AI_Album) -
-  基于Serverless架构开发的人工智能相册小程序
-
-- [anycodes/GoServerless](https://github.com/anycodes/GoServerless) -
-  基于Serverless架构开发的微信公众中号
+- [anycodes/ServerlessBlog](https://github.com/anycodes/ServerlessBlog) - 基于
+  Serverless 架构开发的博客系统
+- [anycodes/AI_Blog](https://github.com/anycodes/AI_Album) - 基于 Serverless 架
+  构开发的人工智能相册小程序
+- [anycodes/GoServerless](https://github.com/anycodes/GoServerless) - 基于
+  Serverless 架构开发的微信公众号
 
 [↑ 返回目录 ↑](#目录)
 
@@ -186,7 +182,7 @@ $ serverless create --template-url https://github.com/yugasun/tencent-serverless
 - [Serverless 应用开发指南](https://serverless.ink/)
 - [Serverless 实践博客](https://yugasun.com/)
 - [玩转 Serverless - 知乎专栏](https://zhuanlan.zhihu.com/ServerlessGo)
-- [Serverless入门实践系列](https://github.com/anycodes/ServerlessArticle)
+- [Serverless 入门实践系列](https://github.com/anycodes/ServerlessArticle)
 
 [↑ 返回目录 ↑](#目录)
 
