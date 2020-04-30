@@ -118,6 +118,8 @@ $ serverless create --template-url https://github.com/yugasun/tencent-serverless
 
 #### 腾讯云：
 
+- [tencent-fullstack](https://github.com/serverless-components/tencent-fullstack) -
+  Fullstack + Serverless DB 项目模板 Version2.0 🔥
 - [fullstack-serverless-db](https://github.com/yugasun/tencent-serverless-demo/tree/master/fullstack-serverless-db) -
   Fullstack + Serverless DB 项目模板
 - [serverless-graphql](https://github.com/yugasun/tencent-serverless-demo/tree/master/serverless-graphql) -
