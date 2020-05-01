@@ -113,7 +113,7 @@ $ npm intstall serverless -g
 下载项目模板：
 
 ```bash
-$ serverless create --template-url https://github.com/yugasun/tencent-serverless-demo/tree/master/fullstack-application-vue
+$ serverless create --template-url https://github.com/serverless-components/tencent-fullstack
 ```
 
 #### 腾讯云：
