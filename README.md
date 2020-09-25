@@ -1,7 +1,7 @@
 <h1 align="center">Serverless 框架开发资源汇总</h1>
 
 本文收集了基于 Serverless 框架开发过程中会使用到的资料、问题以及第三方组件库。本
-文不是一遍关于如何学习 Serverless 框架开发的入门指南，只是一些资料的整理。
+文不是一篇关于如何学习 Serverless 框架开发的入门指南，只是一些资料的整理。
 
 ## 技术交流群
 
@@ -168,6 +168,8 @@ $ serverless create --template-url https://github.com/serverless-components/tenc
 
 - [yugasun/tencent-serverless-demo](https://github.com/yugasun/tencent-serverless-demo) -
   基于腾讯云无服务开发案例合集
+- [tinafangkunding/awesome-serverless](https://github.com/tinafangkunding/awesome-serverless) -
+  Serverless 的 100 种玩法（签到、打卡、图床等应用合集）
 - [anycodes/ServerlessPractice](https://github.com/anycodes/ServerlessPractice) -
   基于腾讯云无服务开发实践分享
 - [anycodes/ServerlessBlog](https://github.com/anycodes/ServerlessBlog) - 基于
