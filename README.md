@@ -101,7 +101,7 @@
 ## 开发模板
 
 模板使用方法，例如使用
-[fullstack-application-vue](https://github.com/yugasun/tencent-serverless-demo/tree/master/fullstack-application-vue)
+[express-demo](https://github.com/serverless-components/tencent-express/tree/master/example)
 模板创建项目
 
 全局安装 `serverless cli`
@@ -110,11 +110,18 @@
 $ npm intstall serverless -g
 ```
 
-下载项目模板：
+下载项目模板，并自动安装依赖：
 
 ```bash
-$ serverless create --template-url https://github.com/serverless-components/tencent-fullstack
+$ serverless init express-demo
 ```
+
+部署到云端：
+```bash
+$ sls deploy
+```
+
+更多使用方法参考[Serverless Component 官方指南](https://github.com/serverless/components/blob/master/README.cn.md)
 
 #### 腾讯云：
 
