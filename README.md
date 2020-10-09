@@ -117,6 +117,7 @@ $ serverless init express-demo
 ```
 
 部署到云端：
+
 ```bash
 $ sls deploy
 ```
@@ -125,6 +126,10 @@ $ sls deploy
 
 #### 腾讯云：
 
+- [admin-system](https://github.com/yugasun/serverless-admin-system) -
+  后台管理系统 🚀
+- [shorten-urls](https://github.com/serverless-plus/shorten-urls) -
+  短连接服务 🚀
 - [tencent-fullstack](https://github.com/serverless-components/tencent-fullstack) -
   Fullstack + Serverless DB 项目模板 Version2.0 🔥
 - [fullstack-serverless-db](https://github.com/yugasun/tencent-serverless-demo/tree/master/fullstack-serverless-db) -
