@@ -107,7 +107,7 @@
 全局安装 `serverless cli`
 
 ```bash
-$ npm intstall serverless -g
+$ npm install serverless -g
 ```
 
 下载项目模板，并自动安装依赖：
