@@ -126,10 +126,12 @@ $ sls deploy
 
 #### 腾讯云：
 
-- [admin-system](https://github.com/yugasun/serverless-admin-system) -
-  后台管理系统 🚀
-- [shorten-urls](https://github.com/serverless-plus/shorten-urls) -
-  短连接服务 🚀
+- [order-system](https://github.com/serverless-plus/serverless-order-system) - 基于 Websocket 的实时订单系统 🚀🔥🔥🔥
+- [shorten-urls](https://github.com/serverless-plus/shorten-urls) - 短连接服务 Express + TypeScript 🚀
+- [serverless-cnode](https://github.com/serverless-plus/serverless-cnode) - 基于 [Next.js](https://github.com/vercel/next.js) 的 Cnode 客户端 🚀
+- [serverless-cnode-nuxtjs](https://github.com/serverless-plus/serverless-cnode-nuxtjs) - 基于 [Nuxt.js](https://github.com/nuxt/nuxt.js) 的 Cnode 客户端 🚀
+- [admin-system](https://github.com/serverless-plus/serverless-admin-system) -
+  后台管理系统 Egg.js + Serverless PostgreSQL + Vue.js 🚀🔥🔥🔥
 - [tencent-fullstack](https://github.com/serverless-components/tencent-fullstack) -
   Fullstack + Serverless DB 项目模板 Version2.0 🔥
 - [fullstack-serverless-db](https://github.com/yugasun/tencent-serverless-demo/tree/master/fullstack-serverless-db) -
