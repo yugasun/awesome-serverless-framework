@@ -126,6 +126,7 @@ $ sls deploy
 
 #### 腾讯云：
 
+- [photo-album](https://github.com/serverless-plus/photo-album) - 基于 Taro 框架开发的 Serverless 相册应用 🤖🔥🔥🔥
 - [order-system](https://github.com/serverless-plus/serverless-order-system) - 基于 Websocket 的实时订单系统 🚀🔥🔥🔥
 - [shorten-urls](https://github.com/serverless-plus/shorten-urls) - 短连接服务 Express + TypeScript 🚀
 - [serverless-cnode](https://github.com/serverless-plus/serverless-cnode) - 基于 [Next.js](https://github.com/vercel/next.js) 的 Cnode 客户端 🚀
